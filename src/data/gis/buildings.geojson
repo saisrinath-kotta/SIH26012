@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Prototype AI-Assisted Building Footprints",
+    "crs": "EPSG:4326",
+    "generated": "2026-09-29T15:04:16.309Z",
+    "disclaimer": "Illustrative AI Output - Requires Surveyor Validation"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "B-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5942677,
+              12.9716528
+            ],
+            [
+              77.5944152,
+              12.9716528
+            ],
+            [
+              77.5944152,
+              12.9715086
+            ],
+            [
+              77.5942677,
+              12.9715086
+            ],
+            [
+              77.5942677,
+              12.9716528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-001",
+        "name": "North Commercial Complex - Block A",
+        "parcelId": "P001",
+        "type": "building",
+        "buildingUse": "commercial",
+        "confidence": "Illustrative (96%)",
+        "confidenceScore": 0.96,
+        "area": 256,
+        "height": 24,
+        "floors": 7,
+        "roofStyle": "stepped_commercial",
+        "facadeColor": "#f8fafc",
+        "roofColor": "#475569",
+        "hasBalconies": true,
+        "hasShopFront": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -24,
+          2
+        ],
+        "localDimensions": [
+          16,
+          16,
+          24
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5944244,
+              12.9716437
+            ],
+            [
+              77.594535,
+              12.9716437
+            ],
+            [
+              77.594535,
+              12.9715176
+            ],
+            [
+              77.5944244,
+              12.9715176
+            ],
+            [
+              77.5944244,
+              12.9716437
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-002",
+        "name": "Urban Mixed-Use Plaza - Block B",
+        "parcelId": "P001",
+        "type": "building",
+        "buildingUse": "mixed_use",
+        "confidence": "Illustrative (94%)",
+        "confidenceScore": 0.94,
+        "area": 168,
+        "height": 18,
+        "floors": 5,
+        "roofStyle": "terrace_pergola",
+        "facadeColor": "#fed7aa",
+        "roofColor": "#b45309",
+        "hasBalconies": true,
+        "hasShopFront": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -9,
+          2
+        ],
+        "localDimensions": [
+          12,
+          14,
+          18
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5945535,
+              12.9716437
+            ],
+            [
+              77.594701,
+              12.9716437
+            ],
+            [
+              77.594701,
+              12.9715176
+            ],
+            [
+              77.5945535,
+              12.9715176
+            ],
+            [
+              77.5945535,
+              12.9716437
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-003",
+        "name": "East Residential High-Rise - Tower A",
+        "parcelId": "P002",
+        "type": "building",
+        "buildingUse": "residential",
+        "confidence": "Illustrative (93%)",
+        "confidenceScore": 0.93,
+        "area": 224,
+        "height": 30,
+        "floors": 9,
+        "roofStyle": "stepped_terrace",
+        "facadeColor": "#f1f5f9",
+        "roofColor": "#334155",
+        "hasBalconies": true,
+        "hasShopFront": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          7,
+          2
+        ],
+        "localDimensions": [
+          16,
+          14,
+          30
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5945627,
+              12.9714816
+            ],
+            [
+              77.5946918,
+              12.9714816
+            ],
+            [
+              77.5946918,
+              12.9713555
+            ],
+            [
+              77.5945627,
+              12.9713555
+            ],
+            [
+              77.5945627,
+              12.9714816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-004",
+        "name": "East Residential Complex - Tower B",
+        "parcelId": "P002",
+        "type": "building",
+        "buildingUse": "residential",
+        "confidence": "Illustrative (91%)",
+        "confidenceScore": 0.91,
+        "area": 196,
+        "height": 22,
+        "floors": 6,
+        "roofStyle": "flat_parapet",
+        "facadeColor": "#e2e8f0",
+        "roofColor": "#475569",
+        "hasBalconies": true,
+        "hasShopFront": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          7,
+          20
+        ],
+        "localDimensions": [
+          14,
+          14,
+          22
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5942585,
+              12.9714005
+            ],
+            [
+              77.5943507,
+              12.9714005
+            ],
+            [
+              77.5943507,
+              12.9712924
+            ],
+            [
+              77.5942585,
+              12.9712924
+            ],
+            [
+              77.5942585,
+              12.9714005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-005",
+        "name": "Dense Residential Villa 1",
+        "parcelId": "P003",
+        "type": "building",
+        "buildingUse": "residential",
+        "confidence": "Illustrative (89%)",
+        "confidenceScore": 0.89,
+        "area": 120,
+        "height": 10,
+        "floors": 3,
+        "roofStyle": "pitched_terracotta",
+        "facadeColor": "#ffedd5",
+        "roofColor": "#b45309",
+        "hasBalconies": false,
+        "hasShopFront": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -28,
+          28
+        ],
+        "localDimensions": [
+          10,
+          12,
+          10
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5943737,
+              12.9713464
+            ],
+            [
+              77.5944567,
+              12.9713464
+            ],
+            [
+              77.5944567,
+              12.9712744
+            ],
+            [
+              77.5943737,
+              12.9712744
+            ],
+            [
+              77.5943737,
+              12.9713464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-006",
+        "name": "Dense Residential Villa 2",
+        "parcelId": "P003",
+        "type": "building",
+        "buildingUse": "residential",
+        "confidence": "Illustrative (88%)",
+        "confidenceScore": 0.88,
+        "area": 72,
+        "height": 8,
+        "floors": 2,
+        "roofStyle": "pitched_terracotta",
+        "facadeColor": "#fef3c7",
+        "roofColor": "#9a3412",
+        "hasBalconies": false,
+        "hasShopFront": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -16,
+          32
+        ],
+        "localDimensions": [
+          9,
+          8,
+          8
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5941755,
+              12.9713915
+            ],
+            [
+              77.5942493,
+              12.9713915
+            ],
+            [
+              77.5942493,
+              12.9713014
+            ],
+            [
+              77.5941755,
+              12.9713014
+            ],
+            [
+              77.5941755,
+              12.9713915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-007",
+        "name": "Dense Residential Villa 3",
+        "parcelId": "P003",
+        "type": "building",
+        "buildingUse": "residential",
+        "confidence": "Illustrative (86%)",
+        "confidenceScore": 0.86,
+        "area": 80,
+        "height": 11,
+        "floors": 3,
+        "roofStyle": "pitched_terracotta",
+        "facadeColor": "#e0e7ff",
+        "roofColor": "#b45309",
+        "hasBalconies": false,
+        "hasShopFront": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -38,
+          28
+        ],
+        "localDimensions": [
+          8,
+          10,
+          11
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5942308,
+              12.9719501
+            ],
+            [
+              77.5944152,
+              12.9719501
+            ],
+            [
+              77.5944152,
+              12.9718239
+            ],
+            [
+              77.5942308,
+              12.9718239
+            ],
+            [
+              77.5942308,
+              12.9719501
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-008",
+        "name": "Civic Community Center",
+        "parcelId": "P004",
+        "type": "building",
+        "buildingUse": "civic",
+        "confidence": "Illustrative (97%)",
+        "confidenceScore": 0.97,
+        "area": 280,
+        "height": 15,
+        "floors": 4,
+        "roofStyle": "flat_parapet",
+        "facadeColor": "#ffffff",
+        "roofColor": "#0284c7",
+        "hasBalconies": false,
+        "hasShopFront": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          -26,
+          -32
+        ],
+        "localDimensions": [
+          20,
+          14,
+          15
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B-009",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5945258,
+              12.971941
+            ],
+            [
+              77.5946918,
+              12.971941
+            ],
+            [
+              77.5946918,
+              12.9718329
+            ],
+            [
+              77.5945258,
+              12.9718329
+            ],
+            [
+              77.5945258,
+              12.971941
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "B-009",
+        "name": "Workshop & Logistics Warehouse",
+        "parcelId": "P005",
+        "type": "building",
+        "buildingUse": "commercial",
+        "confidence": "Illustrative (92%)",
+        "confidenceScore": 0.92,
+        "area": 216,
+        "height": 11,
+        "floors": 2,
+        "roofStyle": "flat_parapet",
+        "facadeColor": "#cbd5e1",
+        "roofColor": "#64748b",
+        "hasBalconies": false,
+        "hasShopFront": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "localCenter": [
+          5,
+          -32
+        ],
+        "localDimensions": [
+          18,
+          12,
+          11
+        ],
+        "disclaimer": "Illustrative / Demo Confidence - Prototype dataset"
+      }
+    }
+  ]
+}

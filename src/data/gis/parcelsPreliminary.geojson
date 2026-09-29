@@ -1,0 +1,386 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Prototype AI-Assisted Preliminary Cadastral Parcels",
+    "crs": "EPSG:4326",
+    "generated": "2026-09-29T15:04:16.313Z",
+    "status": "AI-ASSISTED PRELIMINARY",
+    "disclaimer": "AI-ASSISTED PRELIMINARY RESULTS — REQUIRES SURVEYOR VALIDATION. NOT AN OFFICIAL CADASTRAL RECORD."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "P001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5942308,
+              12.9717248
+            ],
+            [
+              77.5945166,
+              12.9717248
+            ],
+            [
+              77.594535,
+              12.9714546
+            ],
+            [
+              77.5942124,
+              12.9714546
+            ],
+            [
+              77.5942308,
+              12.9717248
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P001",
+        "id": "P001",
+        "name": "North Commercial Complex",
+        "area": 1284,
+        "confidence": "Illustrative (94%)",
+        "confidenceScore": 0.94,
+        "status": "preliminary",
+        "source": "AI-assisted",
+        "validation": "Requires Surveyor Review",
+        "buildingsCount": 2,
+        "buildingIds": [
+          "B-001",
+          "B-002"
+        ],
+        "color": "#06b6d4",
+        "polygonLocal": [
+          [
+            -36,
+            -14
+          ],
+          [
+            -5,
+            -14
+          ],
+          [
+            -3,
+            16
+          ],
+          [
+            -38,
+            16
+          ],
+          [
+            -36,
+            -14
+          ]
+        ],
+        "centroidLocal": [
+          -20,
+          1
+        ],
+        "disclaimer": "Prototype / AI-Assisted Preliminary GIS Dataset - Requires Surveyor Validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5945443,
+              12.9717248
+            ],
+            [
+              77.5947655,
+              12.9717248
+            ],
+            [
+              77.5947839,
+              12.9712564
+            ],
+            [
+              77.5945535,
+              12.9712564
+            ],
+            [
+              77.5945443,
+              12.9717248
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P002",
+        "id": "P002",
+        "name": "East Residential Block",
+        "area": 1420,
+        "confidence": "Illustrative (92%)",
+        "confidenceScore": 0.92,
+        "status": "preliminary",
+        "source": "AI-assisted",
+        "validation": "Requires Surveyor Review",
+        "buildingsCount": 2,
+        "buildingIds": [
+          "B-003",
+          "B-004"
+        ],
+        "color": "#0ea5e9",
+        "polygonLocal": [
+          [
+            -2,
+            -14
+          ],
+          [
+            22,
+            -14
+          ],
+          [
+            24,
+            38
+          ],
+          [
+            -1,
+            38
+          ],
+          [
+            -2,
+            -14
+          ]
+        ],
+        "centroidLocal": [
+          10,
+          12
+        ],
+        "disclaimer": "Prototype / AI-Assisted Preliminary GIS Dataset - Requires Surveyor Validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5941386,
+              12.9714455
+            ],
+            [
+              77.5945443,
+              12.9714455
+            ],
+            [
+              77.5945443,
+              12.9712203
+            ],
+            [
+              77.5941202,
+              12.9712203
+            ],
+            [
+              77.5941386,
+              12.9714455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P003",
+        "id": "P003",
+        "name": "Dense Residential Cluster",
+        "area": 980,
+        "confidence": "Illustrative (87%)",
+        "confidenceScore": 0.87,
+        "status": "uncertain",
+        "source": "AI-assisted",
+        "validation": "Requires Surveyor Review (Hedge Ambiguity)",
+        "buildingsCount": 3,
+        "buildingIds": [
+          "B-005",
+          "B-006",
+          "B-007"
+        ],
+        "color": "#38bdf8",
+        "polygonLocal": [
+          [
+            -46,
+            17
+          ],
+          [
+            -2,
+            17
+          ],
+          [
+            -2,
+            42
+          ],
+          [
+            -48,
+            42
+          ],
+          [
+            -46,
+            17
+          ]
+        ],
+        "centroidLocal": [
+          -24,
+          30
+        ],
+        "disclaimer": "Prototype / AI-Assisted Preliminary GIS Dataset - Requires Surveyor Validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5941755,
+              12.9719861
+            ],
+            [
+              77.5944705,
+              12.9719861
+            ],
+            [
+              77.594489,
+              12.9717609
+            ],
+            [
+              77.594194,
+              12.9717609
+            ],
+            [
+              77.5941755,
+              12.9719861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P004",
+        "id": "P004",
+        "name": "Civil Community Center",
+        "area": 1150,
+        "confidence": "Illustrative (97%)",
+        "confidenceScore": 0.97,
+        "status": "preliminary",
+        "source": "AI-assisted",
+        "validation": "Requires Surveyor Review",
+        "buildingsCount": 1,
+        "buildingIds": [
+          "B-008"
+        ],
+        "color": "#818cf8",
+        "polygonLocal": [
+          [
+            -42,
+            -43
+          ],
+          [
+            -10,
+            -43
+          ],
+          [
+            -8,
+            -18
+          ],
+          [
+            -40,
+            -18
+          ],
+          [
+            -42,
+            -43
+          ]
+        ],
+        "centroidLocal": [
+          -25,
+          -30
+        ],
+        "disclaimer": "Prototype / AI-Assisted Preliminary GIS Dataset - Requires Surveyor Validation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.5945074,
+              12.9719861
+            ],
+            [
+              77.5947655,
+              12.9719861
+            ],
+            [
+              77.5947471,
+              12.9717609
+            ],
+            [
+              77.5945166,
+              12.9717609
+            ],
+            [
+              77.5945074,
+              12.9719861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcelId": "P005",
+        "id": "P005",
+        "name": "Workshop & Logistics Yard",
+        "area": 1040,
+        "confidence": "Illustrative (91%)",
+        "confidenceScore": 0.91,
+        "status": "preliminary",
+        "source": "AI-assisted",
+        "validation": "Requires Surveyor Review",
+        "buildingsCount": 1,
+        "buildingIds": [
+          "B-009"
+        ],
+        "color": "#0284c7",
+        "polygonLocal": [
+          [
+            -6,
+            -43
+          ],
+          [
+            22,
+            -43
+          ],
+          [
+            20,
+            -18
+          ],
+          [
+            -5,
+            -18
+          ],
+          [
+            -6,
+            -43
+          ]
+        ],
+        "centroidLocal": [
+          8,
+          -30
+        ],
+        "disclaimer": "Prototype / AI-Assisted Preliminary GIS Dataset - Requires Surveyor Validation"
+      }
+    }
+  ]
+}

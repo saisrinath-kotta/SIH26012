@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Prototype AI-Assisted Access Corridors & Pathways",
+    "crs": "EPSG:4326",
+    "generated": "2026-09-29T15:04:16.312Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "acc-01",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5941479,
+            12.9717338
+          ],
+          [
+            77.5941479,
+            12.9711933
+          ]
+        ]
+      },
+      "properties": {
+        "id": "acc-01",
+        "name": "Community Access Corridor 1",
+        "type": "access_corridor",
+        "roadClass": "access_corridor",
+        "corridorType": "narrow_lane",
+        "width": 3.5,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -45,
+            -15
+          ],
+          [
+            -45,
+            45
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acc-02",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5939635,
+            12.9714636
+          ],
+          [
+            77.5947471,
+            12.9714636
+          ]
+        ]
+      },
+      "properties": {
+        "id": "acc-02",
+        "name": "East-West Intra-Sector Lane",
+        "type": "access_corridor",
+        "roadClass": "access_corridor",
+        "corridorType": "narrow_lane",
+        "width": 3.2,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -65,
+            15
+          ],
+          [
+            20,
+            15
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acc-03",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945443,
+            12.9717248
+          ],
+          [
+            77.5945443,
+            12.9712564
+          ]
+        ]
+      },
+      "properties": {
+        "id": "acc-03",
+        "name": "Shared Residential Pedestrian Pathway",
+        "type": "access_corridor",
+        "roadClass": "access_corridor",
+        "corridorType": "pathway",
+        "width": 2.5,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -2,
+            -14
+          ],
+          [
+            -2,
+            38
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acc-04",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5942124,
+            12.9714546
+          ],
+          [
+            77.5945166,
+            12.9714546
+          ]
+        ]
+      },
+      "properties": {
+        "id": "acc-04",
+        "name": "Rear Utility Access Passage",
+        "type": "access_corridor",
+        "roadClass": "access_corridor",
+        "corridorType": "pathway",
+        "width": 2,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -38,
+            16
+          ],
+          [
+            -5,
+            16
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    }
+  ]
+}

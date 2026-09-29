@@ -1,0 +1,711 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Prototype Physical Boundary Evidence Layer",
+    "crs": "EPSG:4326",
+    "generated": "2026-09-29T15:04:16.312Z",
+    "principle": "A visible physical feature is NOT automatically a legal cadastral boundary."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BE-001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5942308,
+            12.9717248
+          ],
+          [
+            77.5945166,
+            12.9717248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-001",
+        "parcelId": "P001",
+        "evidenceType": "compound_wall",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Solid Masonry Compound Wall",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -36,
+          -14
+        ],
+        "toLocal": [
+          -5,
+          -14
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-002",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945166,
+            12.9717248
+          ],
+          [
+            77.594535,
+            12.9714546
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-002",
+        "parcelId": "P001",
+        "evidenceType": "road_edge",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Paved Curb Line along Access Lane",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -5,
+          -14
+        ],
+        "toLocal": [
+          -3,
+          16
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.594535,
+            12.9714546
+          ],
+          [
+            77.5942124,
+            12.9714546
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-003",
+        "parcelId": "P001",
+        "evidenceType": "hedge",
+        "confidence": "UNCERTAIN",
+        "status": "requires_field_review",
+        "label": "Vegetation & Informal Broken Fence",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -3,
+          16
+        ],
+        "toLocal": [
+          -38,
+          16
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-004",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5942124,
+            12.9714546
+          ],
+          [
+            77.5942308,
+            12.9717248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-004",
+        "parcelId": "P001",
+        "evidenceType": "compound_wall",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Continuous Masonry Boundary Wall",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -38,
+          16
+        ],
+        "toLocal": [
+          -36,
+          -14
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-005",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945443,
+            12.9717248
+          ],
+          [
+            77.5947655,
+            12.9717248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-005",
+        "parcelId": "P002",
+        "evidenceType": "road_edge",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Main Boulevard Paved Curb Frontage",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -2,
+          -14
+        ],
+        "toLocal": [
+          22,
+          -14
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-006",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5947655,
+            12.9717248
+          ],
+          [
+            77.5947839,
+            12.9712564
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-006",
+        "parcelId": "P002",
+        "evidenceType": "fence",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Avenue Perimeter Metal Railing",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          22,
+          -14
+        ],
+        "toLocal": [
+          24,
+          38
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-007",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5947839,
+            12.9712564
+          ],
+          [
+            77.5945535,
+            12.9712564
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-007",
+        "parcelId": "P002",
+        "evidenceType": "compound_wall",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Rear Masonry Retaining Wall",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          24,
+          38
+        ],
+        "toLocal": [
+          -1,
+          38
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-008",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945535,
+            12.9712564
+          ],
+          [
+            77.5945443,
+            12.9717248
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-008",
+        "parcelId": "P002",
+        "evidenceType": "road_edge",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Shared Corridor Access Curb",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -1,
+          38
+        ],
+        "toLocal": [
+          -2,
+          -14
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-009",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5941386,
+            12.9714455
+          ],
+          [
+            77.5945443,
+            12.9714455
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-009",
+        "parcelId": "P003",
+        "evidenceType": "hedge",
+        "confidence": "UNCERTAIN",
+        "status": "requires_field_review",
+        "label": "Informal Hedge Line / Dense Shrubbery",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -46,
+          17
+        ],
+        "toLocal": [
+          -2,
+          17
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-010",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945443,
+            12.9714455
+          ],
+          [
+            77.5945443,
+            12.9712203
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-010",
+        "parcelId": "P003",
+        "evidenceType": "road_edge",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Shared Access Pathway Edge",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -2,
+          17
+        ],
+        "toLocal": [
+          -2,
+          42
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-011",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945443,
+            12.9712203
+          ],
+          [
+            77.5941202,
+            12.9712203
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-011",
+        "parcelId": "P003",
+        "evidenceType": "curb",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Collector Street Concrete Curb",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -2,
+          42
+        ],
+        "toLocal": [
+          -48,
+          42
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-012",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5941202,
+            12.9712203
+          ],
+          [
+            77.5941386,
+            12.9714455
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-012",
+        "parcelId": "P003",
+        "evidenceType": "fence",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Access Pathway Boundary Fence",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -48,
+          42
+        ],
+        "toLocal": [
+          -46,
+          17
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-013",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5941755,
+            12.9719861
+          ],
+          [
+            77.5944705,
+            12.9719861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-013",
+        "parcelId": "P004",
+        "evidenceType": "compound_wall",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Government Civic Compound Wall",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -42,
+          -43
+        ],
+        "toLocal": [
+          -10,
+          -43
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-014",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5944705,
+            12.9719861
+          ],
+          [
+            77.594489,
+            12.9717609
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-014",
+        "parcelId": "P004",
+        "evidenceType": "visible_boundary_marker",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Concrete Survey Marker Pillars",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -10,
+          -43
+        ],
+        "toLocal": [
+          -8,
+          -18
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.594489,
+            12.9717609
+          ],
+          [
+            77.594194,
+            12.9717609
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-015",
+        "parcelId": "P004",
+        "evidenceType": "curb",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Boulevard Setback Curb Line",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -8,
+          -18
+        ],
+        "toLocal": [
+          -40,
+          -18
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-016",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.594194,
+            12.9717609
+          ],
+          [
+            77.5941755,
+            12.9719861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-016",
+        "parcelId": "P004",
+        "evidenceType": "compound_wall",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Side Boundary Masonry Wall",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -40,
+          -18
+        ],
+        "toLocal": [
+          -42,
+          -43
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945074,
+            12.9719861
+          ],
+          [
+            77.5947655,
+            12.9719861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-017",
+        "parcelId": "P005",
+        "evidenceType": "fence",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Industrial Steel Chainlink Fence",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -6,
+          -43
+        ],
+        "toLocal": [
+          22,
+          -43
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5947655,
+            12.9719861
+          ],
+          [
+            77.5947471,
+            12.9717609
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-018",
+        "parcelId": "P005",
+        "evidenceType": "curb",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Avenue Margin Setback Curb",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          22,
+          -43
+        ],
+        "toLocal": [
+          20,
+          -18
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-019",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5947471,
+            12.9717609
+          ],
+          [
+            77.5945166,
+            12.9717609
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-019",
+        "parcelId": "P005",
+        "evidenceType": "curb",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Boulevard Road Margin",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          20,
+          -18
+        ],
+        "toLocal": [
+          -5,
+          -18
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BE-020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5945166,
+            12.9717609
+          ],
+          [
+            77.5945074,
+            12.9719861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "BE-020",
+        "parcelId": "P005",
+        "evidenceType": "visible_boundary_marker",
+        "confidence": "HIGH",
+        "status": "verified_physical",
+        "label": "Cadastral Boundary Monument Pillars",
+        "source": "AI-assisted visual extraction",
+        "fromLocal": [
+          -5,
+          -18
+        ],
+        "toLocal": [
+          -6,
+          -43
+        ],
+        "conceptualDistinction": "Physical visible boundary evidence is NOT legal cadastral boundary"
+      }
+    }
+  ]
+}

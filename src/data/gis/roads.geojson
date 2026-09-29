@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Prototype AI-Assisted Road Network",
+    "crs": "EPSG:4326",
+    "generated": "2026-09-29T15:04:16.311Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "road-art-01",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5931799,
+            12.9717338
+          ],
+          [
+            77.5959455,
+            12.9717338
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road-art-01",
+        "name": "Main Urban Boulevard (East-West)",
+        "type": "road",
+        "roadClass": "arterial",
+        "width": 10,
+        "hasMarkings": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -150,
+            -15
+          ],
+          [
+            150,
+            -15
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road-art-02",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5947471,
+            12.9729501
+          ],
+          [
+            77.5947471,
+            12.9702473
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road-art-02",
+        "name": "Sector Central Avenue (North-South)",
+        "type": "road",
+        "roadClass": "arterial",
+        "width": 9,
+        "hasMarkings": true,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            20,
+            -150
+          ],
+          [
+            20,
+            150
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road-sec-01",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5939635,
+            12.9729501
+          ],
+          [
+            77.5939635,
+            12.9702473
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road-sec-01",
+        "name": "Collector Cross Street 1",
+        "type": "road",
+        "roadClass": "secondary",
+        "width": 6,
+        "hasMarkings": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -65,
+            -150
+          ],
+          [
+            -65,
+            150
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road-sec-02",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5931799,
+            12.9711933
+          ],
+          [
+            77.5959455,
+            12.9711933
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road-sec-02",
+        "name": "Collector Cross Street 2",
+        "type": "road",
+        "roadClass": "secondary",
+        "width": 6,
+        "hasMarkings": false,
+        "source": "AI-assisted",
+        "status": "preliminary",
+        "pointsLocal": [
+          [
+            -150,
+            45
+          ],
+          [
+            150,
+            45
+          ]
+        ],
+        "disclaimer": "Prototype GIS Dataset"
+      }
+    }
+  ]
+}
